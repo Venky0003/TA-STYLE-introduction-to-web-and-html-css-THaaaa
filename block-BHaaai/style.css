@@ -1,0 +1,45 @@
+body{
+    background-size: auto;
+     background-color: rgba(10, 10, 129, 0.877);
+    color:rgb(221, 215, 202); 
+   margin-left: 24%;
+   margin-right: 24%;
+}
+  img{
+    height:250px;
+ }
+ .center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+ }
+h1{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 5px; 
+}
+.mail{
+    margin-top: 5px;
+}
+p{
+    font-size: 14px;
+    line-height: 20px;
+}
+.green{
+    color:green;
+}
+  a{
+    color:red;
+    /* word-spacing: 30px; */
+  }
+  .spacing{
+    word-spacing: 40px;
+  }
+  div {
+    background-color: rgb(46, 38, 38);
+    /* border: 15px solid rgb(49, 47, 47); */
+    padding: 20px; 
+    /* margin: 20px; */
+  }
+   
